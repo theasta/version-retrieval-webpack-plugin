@@ -1,0 +1,23 @@
+{
+  "name": "version-retrieval-webpack-plugin",
+  "description": "Output a dictionary of assets with their version tags",
+  "version": "0.0.1",
+  "author": {
+    "name": "Alexandrine Boissière",
+    "email": "theasta@gmail.com"
+  },
+  "peerDependencies": {
+    "webpack": "^1.4.2"
+  },
+  "homepage": "http://github.com/theasta/version-retrieval-webpack-plugin",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/theasta/version-retrieval-webpack-plugin.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
